@@ -1,4 +1,4 @@
-# Getting and Cleaning Data - Human Activity Data
+# Exploratory Analysis - US Emissions Data
 
 ## Contents
 This repository contains 7 R scripts and 6 png plot files:
